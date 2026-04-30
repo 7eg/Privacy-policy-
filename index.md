@@ -1,12 +1,10 @@
-# Privacy Policy for Google Play App (English + Arabic)
 
-Save this file as: **index.md**
 
 ---
 
 # Privacy Policy / سياسة الخصوصية
 
-**Effective Date / تاريخ السريان:** [Insert Date]
+**Effective Date / تاريخ السريان:** 30/04/2026
 
 ---
 
@@ -14,7 +12,7 @@ Save this file as: **index.md**
 
 ## Privacy Policy
 
-Thank you for using **[Your App Name]**.
+Thank you for using **Our Apps**.
 
 This Privacy Policy explains how we collect, use, and protect your information when you use our mobile application.
 
@@ -88,7 +86,7 @@ Any changes will be posted on this page.
 
 If you have questions about this Privacy Policy, contact us:
 
-**Email:** [Insert Email Address]
+**Email:** toxpoisonic@gmail.com
 
 ---
 
@@ -138,8 +136,7 @@ If you have questions about this Privacy Policy, contact us:
 ### 5. خدمات الطرف الثالث
 
 قد يستخدم التطبيق خدمات طرف ثالث مثل:
-
-- Google Play Services
+Google Play Services
 - Firebase
 - أدوات التحليل
 - خدمات تسجيل الدخول
@@ -170,20 +167,9 @@ If you have questions about this Privacy Policy, contact us:
 
 إذا كانت لديك أي أسئلة حول سياسة الخصوصية، يمكنك التواصل معنا عبر:
 
-**البريد الإلكتروني:** [Insert Email Address]
+**البريد الإلكتروني: toxpoisonic@gmail.com
 
 ---
 
-# GitHub Pages Publishing Steps
 
-1. Create a repository on GitHub
-2. Add this file as `index.md`
-3. Go to Settings → Pages
-4. Select branch: main
-5. Click Save
-6. Your public URL will be generated
-
-Example:
-
-https://yourusername.github.io/repository-name/
 
